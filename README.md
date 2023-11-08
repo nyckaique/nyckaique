@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Nycollas Kaique!
 #### Aqui estão algumas informações importantes para você me conhecer melhor:
-- Estou iniciando na carreira de desenvolvedor front-end
-- Sou formado em Engenharia Elétrica e por isso já estudei muita programação e lógica
-- Atualmente estou estudando JavaScript com TypeScript
-- Também estou aprendendo bibliotecas e Frameworks, iniciando pelo Bootstrap
-- Fiz cursos de HTML, CSS e JavaScript
-- Pretendo ainda estudar jQuery, React, Angular e Vue.js
-- Estou aberto para trabalho, home office e presencial
-- Pronomes: ele/dele
+- 👨‍💻 Estou iniciando na carreira de desenvolvedor front-end
+- ⚡ Sou formado em Engenharia Elétrica e por isso já estudei muita programação e lógica
+- 📚 Atualmente estou estudando JavaScript com TypeScript
+- 🎨 Também estou aprendendo bibliotecas e Frameworks, iniciando pelo Bootstrap
+- 📄 Fiz cursos de HTML, CSS e JavaScript
+- 📈 Pretendo ainda estudar jQuery, React, Angular e Vue.js
+- 💼 Estou aberto para trabalho, home office e presencial
+- 👨🏳‍🌈 Pronomes: ele/dele
+
 <div>
-  <img height="190px" width="50%" src="https://github-readme-stats.vercel.app/api?username=nyckaique&hide=issues&show_icons=true&theme=tokyonight"/>
   <img height="190px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 
