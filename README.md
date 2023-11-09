@@ -10,7 +10,7 @@
 - 👨🏳‍🌈 Pronomes: ele/dele
 
 <div>
-  <img height="190px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&show_icons=true&theme=tokyonight&layout=compact"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 
 ####
