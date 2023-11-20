@@ -5,7 +5,7 @@
 - 📚 Atualmente estou estudando JavaScript com TypeScript
 - 🎨 Também estou aprendendo bibliotecas e Frameworks, iniciando pelo Bootstrap
 - 📄 Fiz cursos de HTML, CSS e JavaScript
-- 📈 Pretendo ainda estudar jQuery, React, Angular e Vue.js
+- 📈 Pretendo ainda estudar jQuery, React, Vue.js e Angular.
 - 💼 Estou aberto para trabalho, home office e presencial
 - 👨🏳‍🌈 Pronomes: ele/dele
 
