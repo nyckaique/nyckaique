@@ -10,7 +10,7 @@
 - 👨🏳‍🌈 Pronomes: ele/dele
 
 <div>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&show_icons=true&theme=tokyonight&layout=compact"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 
 ####
@@ -20,7 +20,12 @@
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
-  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />     
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />      
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                 
+        
+          
 </div>
 
 ###
