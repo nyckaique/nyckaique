@@ -3,9 +3,9 @@
 - 👨‍💻 Estou iniciando na carreira de desenvolvedor front-end
 - ⚡ Sou formado em Engenharia Elétrica e por isso já estudei muita programação e lógica
 - 📚 Atualmente estou estudando JavaScript com React e TypeScript
-- 🎨 Também estou aprendendo bibliotecas e Frameworks, como Bootstrap e Material UI
+- 🎨 Também estou aprendendo bibliotecas, como Bootstrap e Material UI
 - 📄 Fiz cursos de HTML, CSS e JavaScript
-- 📈 Pretendo ainda estudar jQuery, Vue.js e Angular.
+- 📈 Pretendo ainda estudar jQuery, Vue.js e Angular
 - 💼 Estou aberto para trabalho, home office e presencial
 - 👨🏳‍🌈 Pronomes: ele/dele
 
