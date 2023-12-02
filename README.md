@@ -6,7 +6,7 @@
 - 🎨 Também estou aprendendo bibliotecas, como Bootstrap e Material UI
 - 📄 Fiz cursos de HTML, CSS e JavaScript
 - 📈 Pretendo ainda estudar jQuery, Vue.js e Angular
-- 💼 Estou aberto para trabalho, home office e presencial
+- 💼 Estou aberto para trabalho, home office.
 
 <div>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
