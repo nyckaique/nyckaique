@@ -5,7 +5,7 @@
 - 📚 Atualmente estou estudando JavaScript com React e TypeScript
 - 🎨 Também estou aprendendo bibliotecas, como Bootstrap e Material UI
 - 📄 Fiz cursos de HTML, CSS e JavaScript
-- 📈 Pretendo ainda estudar jQuery, Vue.js e Angular
+- 📈 Pretendo ainda estudar jQuery e Next.js
 - 💼 Estou aberto para trabalho, home office.
 
 <div>
