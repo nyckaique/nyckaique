@@ -2,11 +2,11 @@
 #### Aqui estão algumas informações importantes para você me conhecer melhor:
 - 👨‍💻 Estou iniciando na carreira de desenvolvedor front-end
 - ⚡ Sou formado em Engenharia Elétrica e por isso já estudei muita programação e lógica
-- 📚 Atualmente estou estudando JavaScript com React e TypeScript
+- 📚 Atualmente estou estudando JavaScript, React e TypeScript
 - 🎨 Também estou aprendendo bibliotecas, como Bootstrap e Material UI
 - 📄 Fiz cursos de HTML, CSS e JavaScript
-- 📈 Pretendo ainda estudar jQuery e Next.js
-- 💼 Estou aberto para trabalho, home office.
+- 📈 Pretendo ainda estudar Next.js e Tailwind CSS
+- 💼 Estou aberto para trabalho em home office
 
 <div>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
