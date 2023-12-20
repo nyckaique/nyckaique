@@ -8,6 +8,9 @@
 - 📈 Pretendo ainda estudar Next.js e Tailwind CSS
 - 💼 Estou aberto para trabalho em home office
 
+Para acessar meu portfolio de forma fácil com os projetos que tenho aqui em meu GitHub, acesse esse link: https://nycollaskaique.wordpress.com
+
+
 <div>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
