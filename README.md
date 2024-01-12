@@ -5,6 +5,7 @@
 - 📚 Atualmente estou estudando JavaScript, React e TypeScript
 - 🎨 Também estou aprendendo bibliotecas, como Bootstrap e Material UI
 - 📄 Fiz cursos de HTML, CSS e JavaScript
+- 🧮 Estudei o básico de PHP e MySQL com cursos
 - 📈 Pretendo ainda estudar Next.js e Tailwind CSS
 - 💼 Estou aberto para trabalho em home office
 
