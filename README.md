@@ -10,7 +10,7 @@
 - 📈 Pretendo ainda estudar Next.js
 - 💼 Estou aberto para trabalho em home office
 
-Para acessar meu portfolio de forma fácil com os projetos que tenho aqui em meu GitHub, acesse esse link: https://nycollaskaique.wordpress.com
+Para acessar meu portfolio de forma fácil com os projetos que tenho aqui em meu GitHub, acesse esse link: https://nycollaskaique.netlify.app
 
 
 <div>
