@@ -1,17 +1,24 @@
-### Olá! Eu sou o Nycollas Kaique!
-#### Aqui estão algumas informações importantes para você me conhecer melhor:
-- 👨‍💻 Estou iniciando na carreira de desenvolvedor front-end
-- ⚡ Sou formado em Engenharia Elétrica e por isso já estudei muita programação e lógica
-- 📚 Atualmente estou estudando JavaScript, React e TypeScript
-- 🎨 Também estou aprendendo bibliotecas, como Bootstrap, Material UI, Tailwind CSS e SASS
-- 📄 Fiz cursos de HTML, CSS, JavaScript, React e TypeScript
-- 🧮 Estudei o básico de PHP e MySQL com cursos
-- 📄 Também estudei Firebase e seus serviços (Auth, FireStore, Storage)
-- 📈 Pretendo ainda estudar Next.js
-- 💼 Estou aberto para trabalho em home office
+#### 💻 Frontend Developer with 1+ year of experience, specializing in creating and maintaining websites, blogs, and web applications. Graduated in Electrical Engineering, I focus on developing modern, responsive, and dynamic interfaces.
 
-Para acessar meu portfolio de forma fácil com os projetos que tenho aqui em meu GitHub, acesse esse link: https://nycollaskaique.netlify.app
+#### 🚀 Main technologies: WordPress, Bootstrap, JavaScript, React, PHP, TypeScript, Material UI, Firebase, Tailwind CSS.
 
+#### 🔧 Hands-on experience:
+- ✔ Maintenance and customization of 20+ WordPress sites and blogs.
+- ✔ Development of WordPress themes for WooCommerce and pages with Elementor.
+- ✔ Creation of login pages and dynamic layouts using Bootstrap, HTML, CSS, and JavaScript.
+- ✔ Implementation of components and UI adjustments in React projects.
+- ✔ Basic Firebase usage for frontend data management.
+- ✔ Adjustments in PHP/Laravel (views and blades).
+- ✔ Bug fixes, performance optimizations, and responsiveness improvements.
+- ✔ Image editing and page design using Adobe Photoshop, Illustrator, and Figma.
+
+#### 🎨 Tools and utilities: Git, GitHub, VS Code, Figma, Photoshop, Illustrator.
+
+#### 📌 Open to remote and on-site opportunities in my region.
+
+- 🌎 Portfolio: nycollaskaique.netlify.app
+- 🐙 GitHub: github.com/nyckaique
+- 📩 Contact: nycollaskaique@hotmail.com
 
 <div>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
