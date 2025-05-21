@@ -16,8 +16,8 @@
 
 #### 📌 Open to remote and on-site opportunities in my region.
 
-- 🌎 Portfolio: nycollaskaique.netlify.app
-- 🐙 GitHub: github.com/nyckaique
+- 🌎 Portfolio: https://nycollaskaique.netlify.app
+- 🐙 GitHub: https://github.com/nyckaique
 - 📩 Contact: nycollaskaique@hotmail.com
 
 <div>
