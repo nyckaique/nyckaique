@@ -1,24 +1,25 @@
-#### 💻 Frontend Developer with 1+ year of experience, specializing in creating and maintaining websites, blogs, and web applications. Graduated in Electrical Engineering, I focus on developing modern, responsive, and dynamic interfaces.
+#### Desenvolvedor Front-End com +1 ano e meio de experiência, especializado na criação e manutenção de sites, blogs e aplicações web. Graduado em Engenharia Elétrica, atuo no desenvolvimento de interfaces modernas, responsivas e dinâmicas.
 
-#### 🚀 Main technologies: WordPress, Bootstrap, JavaScript, React, PHP, TypeScript, Material UI, Firebase, Tailwind CSS.
+#### Tecnologias principais: WordPress, PHP, Laravel, React, TypeScript, Next, Bootstrap, Tailwind CSS, Shadcn UI, Aceternity UI, Material UI, Docker, JavaScript, HTML, CSS, Git, GitHub.
 
-#### 🔧 Hands-on experience:
-- ✔ Maintenance and customization of 20+ WordPress sites and blogs.
-- ✔ Development of WordPress themes for WooCommerce and pages with Elementor.
-- ✔ Creation of login pages and dynamic layouts using Bootstrap, HTML, CSS, and JavaScript.
-- ✔ Implementation of components and UI adjustments in React projects.
-- ✔ Basic Firebase usage for frontend data management.
-- ✔ Adjustments in PHP/Laravel (views and blades).
-- ✔ Bug fixes, performance optimizations, and responsiveness improvements.
-- ✔ Image editing and page design using Adobe Photoshop, Illustrator, and Figma.
+#### Experiência prática:
+- Manutenção e personalização em mais de 30 sites e blogs WordPress.
+- Desenvolvimento de temas WordPress para WooCommerce e páginas com Elementor.
+- Criação de páginas de login e layouts dinâmicos com Bootstrap, Tailwind, HTML, CSS e JavaScript.
+- Implementação de componentes e ajustes em projetos React e Next.
+- Uso básico de Firebase para gerenciamento de dados no Front-End.
+- Construí projetos PHP Laravel, trabalhando com os Models, Views, Controllers, Blades, Seeders e Traits. 
+- Criei projetos Back-End com framework Laravel Filament e Docker.
+- Correção de bugs, otimizações de performance e responsividade.
+- Edição de imagens e design de páginas com Adobe Photoshop, Illustrator e Figma.
 
-#### 🎨 Tools and utilities: Git, GitHub, VS Code, Figma, Photoshop, Illustrator.
+#### Ferramentas e utilitários: VS Code, WordPress, Figma, Photoshop, Illustrator, Git, GitHub, Docker.
 
-#### 📌 Open to remote and on-site opportunities in my region.
+#### Aberto para oportunidades remotas e presenciais na minha região.
 
-- 🌎 Portfolio: https://nycollaskaique.netlify.app
-- 🐙 GitHub: https://github.com/nyckaique
-- 📩 Contact: nycollaskaique@hotmail.com
+- Portfólio: nycollaskaique.netlify.app
+- GitHub: github.com/nyckaique
+- Contato: nycollaskaique@hotmail.com
 
 <div>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyckaique&langs_count=8&show_icons=true&theme=tokyonight&layout=compact"/>
